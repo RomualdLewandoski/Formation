@@ -6,7 +6,7 @@ Evan :
 
 Jon :
 
-Karine : 
+Karine : https://github.com/molinaro-karine/articles.git
 
 Maxime : 
 
