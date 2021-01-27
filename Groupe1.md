@@ -18,7 +18,7 @@ Remi :
 
 Roman :
 
-Valentin : 
+Valentin : https://github.com/ValentinGratz/ecommerceCCP2
 
 Vincent : 
 
