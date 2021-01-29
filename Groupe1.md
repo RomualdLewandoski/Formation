@@ -8,7 +8,7 @@ Jon : https://github.com/Jun148/CCP2
 
 Karine : 
 
-Maxime : 
+Maxime : https://github.com/Anathoe/Evaluation-CCP2
 
 Maximillien : https://github.com/MaximilienR/ccp-back
 
