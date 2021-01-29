@@ -14,7 +14,7 @@ Maximillien : https://github.com/MaximilienR/ccp-back
 
 Kevin :
 
-Remi :
+Remi : https://github.com/AzKween/ccp2
 
 Roman : https://github.com/Mgsnake62/Evaluation
 
