@@ -12,7 +12,7 @@ Maxime : https://github.com/Anathoe/Evaluation-CCP2
 
 Maximillien : https://github.com/MaximilienR/ccp-back
 
-Kevin :
+Kevin : https://github.com/KevinBrisse/EvaluationCCP2
 
 Remi : https://github.com/AzKween/ccp2
 
