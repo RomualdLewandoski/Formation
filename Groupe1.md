@@ -18,7 +18,7 @@ Remi :
 
 Roman : https://github.com/Mgsnake62/Evaluation
 
-Valentin : 
+Valentin : https://github.com/ValentinGratz/ecommerceCCP2
 
 Vincent : https://github.com/Vincent62160/CCP2.git
 
