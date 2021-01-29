@@ -6,7 +6,7 @@ Evan :https://github.com/nessq9/eval2
 
 Jon : https://github.com/Jun148/CCP2
 
-Karine : 
+Karine : https://github.com/molinaro-karine/articles.git
 
 Maxime : https://github.com/Anathoe/Evaluation-CCP2
 
