@@ -8,7 +8,7 @@ Jon :
 
 Karine : 
 
-Maxime : 
+Maxime : https://github.com/Anathoe/Evaluation-CCP2
 
 Maximillien : 
 
